@@ -569,8 +569,28 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.text-lg {
-  font-size: 1.125rem;
+.flex {
+  display: flex;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.border {
+  border-width: 1px;
+}
+
+.border-2 {
+  border-width: 2px;
+}
+
+.p-8 {
+  padding: 2rem;
+}
+
+.text-xl {
+  font-size: 1.25rem;
   line-height: 1.75rem;
 }
 
